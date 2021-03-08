@@ -8,48 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://r12design.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Entornos 3D</title>
-      <link>https://r12design.github.io/docs/entorno-3d/</link>
+      <title>Encargo 0 Presentación</title>
+      <link>https://r12design.github.io/docs/encargo-0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://r12design.github.io/docs/entorno-3d/</guid>
-      <description>Un trabajo representativo.</description>
-    </item>
-    
-    <item>
-      <title>Heavy Duty</title>
-      <link>https://r12design.github.io/docs/heavy-duty/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://r12design.github.io/docs/heavy-duty/</guid>
-      <description>Emprendimiento.</description>
-    </item>
-    
-    <item>
-      <title>Sistema de apoyo para la Madre estudiante</title>
-      <link>https://r12design.github.io/docs/sistema-de-apoyo-para-la-madre-estudiante/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://r12design.github.io/docs/sistema-de-apoyo-para-la-madre-estudiante/</guid>
-      <description>Un trabajo representativo.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://r12design.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://r12design.github.io/docs/ejemplo/</guid>
+      <guid>https://r12design.github.io/docs/encargo-0/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://r12design.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://r12design.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>

@@ -13,7 +13,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/docs/encargo-0/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <description>Un poco sobre mí.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/docs/encargo-1/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <description>Elementos Analogos</description>
     </item>
     
     <item>
@@ -31,15 +31,24 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/docs/encargo-2/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <description>Animación Analogo-Digital</description>
     </item>
     
     <item>
-      <title>Encargo 3 El recorrido de la luz</title>
+      <title>Encargo 3 Exploración de  Animación  </title>
       <link>https://r12design.github.io/docs/encargo-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/docs/encargo-3/</guid>
+      <description>Exploración de  Animación</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4 El recorrido de la luz</title>
+      <link>https://r12design.github.io/docs/encargo-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-4/</guid>
       <description>Animación de volumenes.</description>
     </item>
     

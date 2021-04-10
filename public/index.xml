@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Murúa on Rodrigo Murúa - MID 2021</title>
+    <link>https://r12design.github.io/</link>
+    <description>Recent content in Rodrigo Murúa on Rodrigo Murúa - MID 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://r12design.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encargo 0 Presentación</title>
+      <link>https://r12design.github.io/docs/encargo-0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-0/</guid>
+      <description>Un poco sobre mí.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 1 Planos de luz</title>
+      <link>https://r12design.github.io/docs/encargo-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-1/</guid>
+      <description>Elementos Analogos</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2 La luz animada</title>
+      <link>https://r12design.github.io/docs/encargo-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-2/</guid>
+      <description>Animación Analogo-Digital</description>
+    </item>
+    
+    <item>
+      <title>Encargo 3 Exploración de  Animación  </title>
+      <link>https://r12design.github.io/docs/encargo-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-3/</guid>
+      <description>Exploración de  Animación</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4 El recorrido de la luz</title>
+      <link>https://r12design.github.io/docs/encargo-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-4/</guid>
+      <description>Animación de volumenes.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 5 Realización de Tutoriales Fusion 360</title>
+      <link>https://r12design.github.io/docs/encargo-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-5/</guid>
+      <description>Invernadero, Macetero y Brazo.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 6 Realizar un trabajo de diseño generativo</title>
+      <link>https://r12design.github.io/docs/encargo-6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-6/</guid>
+      <description>Invernadero, Macetero y Brazo.</description>
+    </item>
+    
+  </channel>
+</rss>

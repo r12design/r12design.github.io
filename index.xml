@@ -90,15 +90,6 @@
     
     <item>
       <title>Encargo 9 Levantamiento de información</title>
-      <link>https://r12design.github.io/docs/encargo-10/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://r12design.github.io/docs/encargo-10/</guid>
-      <description>Proyecto final - Electromovilidad.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 9 Levantamiento de información</title>
       <link>https://r12design.github.io/docs/encargo-9/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -107,7 +98,16 @@
     </item>
     
     <item>
-      <title>Encargo 11</title>
+      <title>Encargo 10 Modelación a Partir de superficies</title>
+      <link>https://r12design.github.io/docs/encargo-10/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/encargo-10/</guid>
+      <description>Tutorial - Electromovilidad.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 11 Construcción del sistema</title>
       <link>https://r12design.github.io/docs/encargo-11/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       

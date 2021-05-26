@@ -115,5 +115,23 @@
       <description>Proyecto final - Electromovilidad.</description>
     </item>
     
+    <item>
+      <title>Examen - New Horizon</title>
+      <link>https://r12design.github.io/docs/examen/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/examen/</guid>
+      <description>Plan de intervención con electromovilidad.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Modelado e impresion 3D</title>
+      <link>https://r12design.github.io/docs/tutorial/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/docs/tutorial/</guid>
+      <description>Como modelar y juntar elementos del mundo real y digital.</description>
+    </item>
+    
   </channel>
 </rss>

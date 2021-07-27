@@ -40,7 +40,7 @@
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e04/</guid>
-      <description>Encargo 4 Animaciones</description>
+      <description>Encargo 4 Animación del proyecto</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e05/</guid>
-      <description>Encargo 5 Modelo 3d</description>
+      <description>Encargo 5 Modelo</description>
     </item>
     
     <item>
@@ -58,7 +58,16 @@
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e06/</guid>
-      <description>Encargo 5 Modelo 3d</description>
+      <description>Encargo 6 Se muestra la problemática y el proyecto a realizar.</description>
+    </item>
+    
+    <item>
+      <title>Repositorio</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/repocitorio/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/repocitorio/</guid>
+      <description>Fotos tomadas en la ligua</description>
     </item>
     
     <item>
@@ -77,15 +86,6 @@
       
       <guid>https://r12design.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Repositorio</title>
-      <link>https://r12design.github.io/taller-ciudad-espacio/docs/repocitorio/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/repocitorio/</guid>
-      <description>Fotos tomadas en la ligua</description>
     </item>
     
   </channel>

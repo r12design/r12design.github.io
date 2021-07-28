@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller Espacio y Ciudad on Rodrigo Murúa</title>
+    <link>https://r12design.github.io/taller-ciudad-espacio/</link>
+    <description>Recent content in Taller Espacio y Ciudad on Rodrigo Murúa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://r12design.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - Tema</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/e01/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e01/</guid>
+      <description>En este encargo se busca la problematica.</description>
+    </item>
+    
+    <item>
+      <title>2 - Dibujos</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/e02/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e02/</guid>
+      <description>Encargo 2 dibujo a mano alzada</description>
+    </item>
+    
+    <item>
+      <title>3 - Propuesta de Valor</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/e03/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e03/</guid>
+      <description>Encargo 3 Propuesta de valor</description>
+    </item>
+    
+    <item>
+      <title>4 - Animación</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/e04/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e04/</guid>
+      <description>Encargo 4 Animación del proyecto</description>
+    </item>
+    
+    <item>
+      <title>5 - Modelado 3d</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/e05/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e05/</guid>
+      <description>Encargo 5 Modelo</description>
+    </item>
+    
+    <item>
+      <title>6 - Midterm</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/e06/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/e06/</guid>
+      <description>Encargo 6 Se muestra la problemática y el proyecto a realizar.</description>
+    </item>
+    
+    <item>
+      <title>Repositorio</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/repocitorio/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/repocitorio/</guid>
+      <description>Fotos tomadas en la ligua</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://r12design.github.io/taller-ciudad-espacio/docs/markdown/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://r12design.github.io/taller-ciudad-espacio/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
